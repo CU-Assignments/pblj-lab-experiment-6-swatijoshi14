@@ -9,8 +9,6 @@ this.age = age;
 this.salary = salary; 
 } 
 @Override 
-DEPARTMENT OF 
-COMPUTER SCIENCE & ENGINEERING 
 public String toString() { 
 return "Employee{name='" + name + "', age=" + age + ", salary=" + salary + "}"; 
 } 
